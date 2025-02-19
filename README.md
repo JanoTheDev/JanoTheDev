@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 123Demands.com and Windows 11 with React<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything
+🔭 I’m currently working on FischTrade.com<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
